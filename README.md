@@ -8,7 +8,6 @@
 Queen Mary University of London<br/>
 </p>
 
-```
 
 ## Code Release
 We will make our code publicly available soon. Stay tuned! :rocket:
