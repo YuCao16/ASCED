@@ -1,8 +1,10 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;">
                 Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts</h1>
 <p align='center' style="text-align:center;font-size:1.25em;">
-    <a href="https://scholar.google.com/citations?user=JQ6OT8MAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Yu Cao<sup>*</sup></a>&nbsp;,&nbsp;
-    <a href="https://scholar.google.com/citations?user=Nhi0I8cAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration: none;">Shaogang Gong<sup>&#8224</sup></a></br>
+    <a href="https://yucao16.github.io" target="_blank" style="text-decoration: none;">Yu Cao<sup>*</sup></a>&nbsp;,&nbsp;
+    <a href="https://zengqunzhao.github.io" target="_blank" style="text-decoration: none;">Zengqun Zhao<sup>*</sup></a>&nbsp;,&nbsp;
+    <a href="https://www.eecs.qmul.ac.uk/~ioannisp/" target="_blank" style="text-decoration: none;">Ioannis Patras<sup>*</sup></a>&nbsp;,&nbsp;
+    <a href="https://www.eecs.qmul.ac.uk/~sgg/" target="_blank" style="text-decoration: none;">Shaogang Gong<sup>&#8224</sup></a></br>
 </p>
 <p align='center' style="text-align:center;font-size:1.25em;">
 Queen Mary University of London<br/>
