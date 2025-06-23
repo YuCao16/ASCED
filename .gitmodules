@@ -1,0 +1,3 @@
+[submodule "guided_diffusion"]
+	path = guided_diffusion
+	url = https://github.com/openai/guided-diffusion.git
